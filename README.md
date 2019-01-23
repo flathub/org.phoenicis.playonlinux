@@ -7,12 +7,12 @@ Install and run Windows software on Linux
 
 ## Installation Instruction :
 
-####Install Extension
+#### Install Extension
 ```
 flatpak install flathub org.freedesktop.Platform.Compat.i386
 ```
 
-####Install Application
+#### Install Application
 ```
 flatpak install flathub org.phoenicis.playonlinux
 ```
