@@ -22,13 +22,7 @@ flatpak install flathub org.phoenicis.playonlinux
 flatpak run org.phoenicis.playonlinux
 ```
 
-#### Website :
+## Website :
 
 https://flathub.org/apps/details/org.phoenicis.playonlinux
 
-
-#### Runtime/Sdk :
-```
-org.freedesktop.Platform/x86_64/18.08
-org.freedesktop.Sdk/x86_64/18.08
-```
