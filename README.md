@@ -17,7 +17,7 @@ flatpak install flathub org.freedesktop.Platform.Compat.i386
 flatpak install flathub org.phoenicis.playonlinux
 ```
 
-## Run:
+## Run :
 ```
 flatpak run org.phoenicis.playonlinux
 ```
