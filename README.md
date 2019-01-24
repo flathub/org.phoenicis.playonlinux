@@ -5,7 +5,7 @@ Phoenicis PlayOnLinux is a graphical front-end for Wine.
 Install and run Windows software on Linux
 
 
-## Installation Instruction :
+## Installation Instruction's :
 
 #### Install Extension
 ```
